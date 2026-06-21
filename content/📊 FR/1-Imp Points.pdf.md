@@ -19,7 +19,7 @@ Step 3b and Step 5
  Other Reserves
 ↳ Retained Earning
 -
-No change
+No change.
 Total Post
 ③ Dividend Adjustment (Only one thing adjiested
 before Time Adjustment)

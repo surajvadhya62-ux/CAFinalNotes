@@ -32,13 +32,11 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
-      - name: Install Quartz Plugins
-        run: npx quartz plugin install
-
       - name: Build Quartz
         run: npx quartz build
 
       - name: Upload Build Artifacts
+
         uses: actions/upload-pages-artifact@v3
         with:
           path: public

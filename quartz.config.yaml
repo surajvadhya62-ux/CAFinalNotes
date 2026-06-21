@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: surajvadhya.github.io/CAFinalNotes
+  baseUrl: surajvadhya62-ux.github.io/CAFinalNotes
   ignorePatterns:
     - private
     - templates
